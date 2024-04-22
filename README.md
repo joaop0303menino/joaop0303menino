@@ -8,10 +8,11 @@
 </div>
 
 <div align="center">
-📧outlook contact: joaopedroalmeidamenino@hotmail.com
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_joaop_menino/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-pedro-almeida-menino-7332422b6/)
+
+<a  href="https://linkedin.com/in/jo%C3%A3o-pedro-almeida-menino-7332422b6/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
 <div/>
 
 # technologies used
