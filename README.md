@@ -1,11 +1,18 @@
-### Hi 👋 I'm João Menino 😄
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Menino;I'm+from+Brazil;I+study+at+the+IT+area;Be+Welcome!+:%29)]()
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaop0303menino&show_icons=true&theme=tokyonight" alt="João Menino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop0303menino&layout=compact&hide_border=true&&theme=tokyonight" />
+</div>
+
+<div align="center">
 📧outlook contact: joaopedroalmeidamenino@hotmail.com
-
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_joaop_menino/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-pedro-almeida-menino-7332422b6/)
-
-![joaop0303menino GitHub stats](https://github-readme-stats.vercel.app/api?username=joaop0303menino&show_icons=true&theme=tokyonight)
+<div/>
 
 # technologies used
 
@@ -16,4 +23,4 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-I'm a Brazilian student 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
